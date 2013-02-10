@@ -3,6 +3,8 @@
 	"description": "php.js is an open source project that brings high-level PHP functions to low-level JavaScript platforms such as webbrowsers, AIR, V8 and rhino.",
 	"version": "3.26",
 	"author": "Erik Kristensen <erik .a@t. erikkristensen .d-o-t. com>",
+	"keywords": ["phpjs", "php"],
+	"url": "https://github.com/ekristen/node-phpjs",
 	"license": "MIT and GPL, see README",
 	"repository": {
 		"type": "git",
